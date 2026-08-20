@@ -1,21 +1,21 @@
 [
   {
-    "name": "2024-2-3-最新达人的源",
-    "logo": "2024-2-3-最新达人的源",
+    "name": "2024最新达人的源",
+    "logo": "2024最新达人的源",
     "desc": "共 13584 个频道",
     "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/2024-2-3-最新达人的源.json",
-    "id": "ff479540-5456-3a40-b1a7-80ff438e0cc6",
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_1.json",
+    "id": "source_1",
     "status": true,
     "jiexiUrl": null
   },
   {
-    "name": "4000+ 国内外直播源(1)",
-    "logo": "4000+ 国内外直播源(1)",
+    "name": "4000+国内外直播源",
+    "logo": "4000+国内外直播源",
     "desc": "共 4088 个频道",
     "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/4000+ 国内外直播源(1).json",
-    "id": "1b07a725-fda0-392f-a64b-4e995e26914b",
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_2.json",
+    "id": "source_2",
     "status": true,
     "jiexiUrl": null
   },
@@ -24,8 +24,88 @@
     "logo": "EPG源",
     "desc": "共 5193 个频道",
     "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/EPG源.json",
-    "id": "beff7337-b888-3fc1-9931-67d263974be4",
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_3.json",
+    "id": "source_3",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "iOS宝藏TV源",
+    "logo": "iOS宝藏TV源",
+    "desc": "共 1261 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_4.json",
+    "id": "source_4",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "iptv",
+    "logo": "iptv",
+    "desc": "共 108 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_5.json",
+    "id": "source_5",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "大世界直播",
+    "logo": "大世界直播",
+    "desc": "共 224 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_6.json",
+    "id": "source_6",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "港澳频道",
+    "logo": "港澳频道",
+    "desc": "共 40 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_7.json",
+    "id": "source_7",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "电视直播",
+    "logo": "电视直播",
+    "desc": "共 220 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_8.json",
+    "id": "source_8",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "电视直播源",
+    "logo": "电视直播源",
+    "desc": "共 167 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_9.json",
+    "id": "source_9",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "电视直播源2",
+    "logo": "电视直播源2",
+    "desc": "共 2478 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_10.json",
+    "id": "source_10",
+    "status": true,
+    "jiexiUrl": null
+  },
+  {
+    "name": "虎牙一起看",
+    "logo": "虎牙一起看",
+    "desc": "共 811 个频道",
+    "nsfw": false,
+    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/source_11.json",
+    "id": "source_11",
     "status": true,
     "jiexiUrl": null
   },
@@ -35,27 +115,7 @@
     "desc": "共 2038 个频道",
     "nsfw": false,
     "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/TomatoTV.json",
-    "id": "6f7b9d23-4d34-30d7-afa4-328c3ce2f2f7",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "iOS宝藏TV源",
-    "logo": "iOS宝藏TV源",
-    "desc": "共 1261 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/iOS宝藏TV源.json",
-    "id": "8157ec7d-53be-34c5-8eb6-9ae180fc3256",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "iptv (1)",
-    "logo": "iptv (1)",
-    "desc": "共 108 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/iptv (1).json",
-    "id": "c02088bf-d772-3b55-8b30-ecfa32a54d2e",
+    "id": "TomatoTV",
     "status": true,
     "jiexiUrl": null
   },
@@ -65,67 +125,7 @@
     "desc": "共 108 个频道",
     "nsfw": false,
     "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/migu.json",
-    "id": "01e3e491-8682-3fcd-af6c-20dcc32ccf01",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "大世界直播",
-    "logo": "大世界直播",
-    "desc": "共 224 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/大世界直播.json",
-    "id": "3c01f8bd-043c-3ec3-bc8c-7bc3d5311569",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "港澳频道",
-    "logo": "港澳频道",
-    "desc": "共 40 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/港澳频道.json",
-    "id": "17d78378-97b0-371b-87c4-55c260ae4161",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "电视直播",
-    "logo": "电视直播",
-    "desc": "共 220 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/电视直播.json",
-    "id": "0531e44d-d4d3-30b2-9431-0735722fe074",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "电视直播源",
-    "logo": "电视直播源",
-    "desc": "共 167 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/电视直播源.json",
-    "id": "af98851e-3079-398f-a2d9-f61384cb6e61",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "电视直播源2",
-    "logo": "电视直播源2",
-    "desc": "共 2478 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/电视直播源2.json",
-    "id": "ac59b9e6-2d06-33af-81a9-5bcdefd08820",
-    "status": true,
-    "jiexiUrl": null
-  },
-  {
-    "name": "虎牙一起看",
-    "logo": "虎牙一起看",
-    "desc": "共 811 个频道",
-    "nsfw": false,
-    "api": "https://raw.githubusercontent.com/zaomengxiansheng0/tvbox-sources/main/虎牙一起看.json",
-    "id": "c232bf5f-fb41-3e02-8dcf-6bc53220c345",
+    "id": "migu",
     "status": true,
     "jiexiUrl": null
   }
