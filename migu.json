@@ -1,0 +1,634 @@
+[
+  {
+    "name": "CCTV1",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv1",
+    "logo": "https://epg.112114.xyz/logo/CCTV1.png",
+    "id": "CCTV1"
+  },
+  {
+    "name": "CCTV2",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv2",
+    "logo": "https://epg.112114.xyz/logo/CCTV2.png",
+    "id": "CCTV2"
+  },
+  {
+    "name": "CCTV3",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv3",
+    "logo": "https://epg.112114.xyz/logo/CCTV3.png",
+    "id": "CCTV3"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv4",
+    "logo": "https://epg.112114.xyz/logo/CCTV4.png",
+    "id": "CCTV4"
+  },
+  {
+    "name": "CCTV4-美洲",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv4a",
+    "logo": "https://epg.112114.xyz/logo/CCTV4.png",
+    "id": "CCTV4"
+  },
+  {
+    "name": "CCTV5",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv5",
+    "logo": "https://epg.112114.xyz/logo/CCTV5.png",
+    "id": "CCTV5"
+  },
+  {
+    "name": "CCTV5+",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv5p",
+    "logo": "https://epg.112114.xyz/logo/CCTV5+.png",
+    "id": "CCTV5+"
+  },
+  {
+    "name": "CCTV6",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv6",
+    "logo": "https://epg.112114.xyz/logo/CCTV6.png",
+    "id": "CCTV6"
+  },
+  {
+    "name": "CCTV7",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv7",
+    "logo": "https://epg.112114.xyz/logo/CCTV7.png",
+    "id": "CCTV7"
+  },
+  {
+    "name": "CCTV8",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv8",
+    "logo": "https://epg.112114.xyz/logo/CCTV8.png",
+    "id": "CCTV8"
+  },
+  {
+    "name": "CCTV9",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv9",
+    "logo": "https://epg.112114.xyz/logo/CCTV9.png",
+    "id": "CCTV9"
+  },
+  {
+    "name": "CCTV10",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv10",
+    "logo": "https://epg.112114.xyz/logo/CCTV10.png",
+    "id": "CCTV10"
+  },
+  {
+    "name": "CCTV11",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv11",
+    "logo": "https://epg.112114.xyz/logo/CCTV11.png",
+    "id": "CCTV11"
+  },
+  {
+    "name": "CCTV12",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv12",
+    "logo": "https://epg.112114.xyz/logo/CCTV12.png",
+    "id": "CCTV12"
+  },
+  {
+    "name": "CCTV13",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv13",
+    "logo": "https://epg.112114.xyz/logo/CCTV13.png",
+    "id": "CCTV13"
+  },
+  {
+    "name": "CCTV15",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv15",
+    "logo": "https://epg.112114.xyz/logo/CCTV15.png",
+    "id": "CCTV15"
+  },
+  {
+    "name": "CCTV16",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv16",
+    "logo": "https://epg.112114.xyz/logo/CCTV16.png",
+    "id": "CCTV16"
+  },
+  {
+    "name": "CCTV16",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv16b",
+    "logo": "https://epg.112114.xyz/logo/CCTV16.png",
+    "id": "CCTV16"
+  },
+  {
+    "name": "CCTV17",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cctv17hd",
+    "logo": "https://epg.112114.xyz/logo/CCTV17.png",
+    "id": "CCTV17"
+  },
+  {
+    "name": "CGTN纪录",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cgtnjl",
+    "logo": "https://epg.112114.xyz/logo/CGTN纪录.png",
+    "id": "CGTN纪录"
+  },
+  {
+    "name": "CGTN法语",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cgtnf",
+    "logo": "https://epg.112114.xyz/logo/CGTN法语.png"
+  },
+  {
+    "name": "CGTN西语",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cgtne",
+    "logo": "https://epg.112114.xyz/logo/CGTN西语.png"
+  },
+  {
+    "name": "CGTN阿语",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cgtna",
+    "logo": "https://epg.112114.xyz/logo/CGTN阿语.png"
+  },
+  {
+    "name": "CGTN俄语",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cgtnr",
+    "logo": "https://epg.112114.xyz/logo/CGTN俄语.png"
+  },
+  {
+    "name": "中国教育1",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cetv1",
+    "logo": "https://epg.112114.xyz/logo/中国教育1台.png",
+    "id": "中国教育1台"
+  },
+  {
+    "name": "中国教育1HD",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cetv1hd",
+    "logo": "https://epg.112114.xyz/logo/中国教育1台.png",
+    "id": "中国教育1台"
+  },
+  {
+    "name": "中国教育2",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cetv2",
+    "logo": "https://epg.112114.xyz/logo/中国教育2台.png",
+    "id": "中国教育2台"
+  },
+  {
+    "name": "中国教育3",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cetv3",
+    "logo": "https://epg.112114.xyz/logo/中国教育3台.png",
+    "id": "中国教育3台"
+  },
+  {
+    "name": "中国教育4",
+    "url": "https://www.whalenas.com/mgik/index.php?id=cetv4",
+    "logo": "https://epg.112114.xyz/logo/中国教育4台.png",
+    "id": "中国教育4台"
+  },
+  {
+    "name": "CHC动作电影",
+    "url": "https://www.whalenas.com/mgik/index.php?id=chcdzdy",
+    "logo": "https://epg.112114.xyz/logo/CHC动作电影.png",
+    "id": "CHC动作电影"
+  },
+  {
+    "name": "CHC家庭影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=chcjtyy",
+    "logo": "https://epg.112114.xyz/logo/CHC家庭影院.png",
+    "id": "CHC家庭影院"
+  },
+  {
+    "name": "北京卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=bjws",
+    "logo": "https://epg.112114.xyz/logo/北京卫视.png",
+    "id": "北京卫视"
+  },
+  {
+    "name": "东方卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=dfws",
+    "logo": "https://epg.112114.xyz/logo/东方卫视.png",
+    "id": "东方卫视"
+  },
+  {
+    "name": "黑龙江卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hljws",
+    "logo": "https://epg.112114.xyz/logo/黑龙江卫视.png",
+    "id": "黑龙江卫视"
+  },
+  {
+    "name": "吉林卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jlws",
+    "logo": "https://epg.112114.xyz/logo/吉林卫视.png",
+    "id": "吉林卫视"
+  },
+  {
+    "name": "辽宁卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=lnws",
+    "logo": "https://epg.112114.xyz/logo/辽宁卫视.png",
+    "id": "辽宁卫视"
+  },
+  {
+    "name": "甘肃卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gsws",
+    "logo": "https://epg.112114.xyz/logo/甘肃卫视.png",
+    "id": "甘肃卫视"
+  },
+  {
+    "name": "青海卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=qhws",
+    "logo": "https://epg.112114.xyz/logo/青海卫视.png",
+    "id": "青海卫视"
+  },
+  {
+    "name": "河北卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hbws",
+    "logo": "https://epg.112114.xyz/logo/河北卫视.png",
+    "id": "河北卫视"
+  },
+  {
+    "name": "湖北卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hubws",
+    "logo": "https://epg.112114.xyz/logo/湖北卫视.png",
+    "id": "湖北卫视"
+  },
+  {
+    "name": "湖南卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hunws",
+    "logo": "https://epg.112114.xyz/logo/湖南卫视.png",
+    "id": "湖南卫视"
+  },
+  {
+    "name": "江西卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jxws",
+    "logo": "https://epg.112114.xyz/logo/江西卫视.png",
+    "id": "江西卫视"
+  },
+  {
+    "name": "江苏卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jsws",
+    "logo": "https://epg.112114.xyz/logo/江苏卫视.png",
+    "id": "江苏卫视"
+  },
+  {
+    "name": "东南卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=dnws",
+    "logo": "https://epg.112114.xyz/logo/东南卫视.png",
+    "id": "东南卫视"
+  },
+  {
+    "name": "广东卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gdws",
+    "logo": "https://epg.112114.xyz/logo/广东卫视.png",
+    "id": "广东卫视"
+  },
+  {
+    "name": "南方卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=nfws",
+    "logo": "https://epg.112114.xyz/logo/南方卫视.png",
+    "id": "南方卫视"
+  },
+  {
+    "name": "广西卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gxws",
+    "logo": "https://epg.112114.xyz/logo/广西卫视.png",
+    "id": "广西卫视"
+  },
+  {
+    "name": "云南卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=ynws",
+    "logo": "https://epg.112114.xyz/logo/云南卫视.png",
+    "id": "云南卫视"
+  },
+  {
+    "name": "贵州卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gzws",
+    "logo": "https://epg.112114.xyz/logo/贵州卫视.png",
+    "id": "贵州卫视"
+  },
+  {
+    "name": "四川卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=scws",
+    "logo": "https://epg.112114.xyz/logo/四川卫视.png",
+    "id": "四川卫视"
+  },
+  {
+    "name": "四川卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=scwshd",
+    "logo": "https://epg.112114.xyz/logo/四川卫视.png",
+    "id": "四川卫视"
+  },
+  {
+    "name": "新疆卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=xjws",
+    "logo": "https://epg.112114.xyz/logo/新疆卫视.png",
+    "id": "新疆卫视"
+  },
+  {
+    "name": "兵团卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=btws",
+    "logo": "https://epg.112114.xyz/logo/兵团卫视.png",
+    "id": "兵团卫视"
+  },
+  {
+    "name": "四海钓鱼",
+    "url": "https://www.whalenas.com/mgik/index.php?id=shdy",
+    "logo": "https://epg.112114.xyz/logo/四海钓鱼.png"
+  },
+  {
+    "name": "江苏教育",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jsjy",
+    "logo": "https://epg.112114.xyz/logo/江苏教育.png",
+    "id": "江苏教育"
+  },
+  {
+    "name": "山东教育卫视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=sdjy",
+    "logo": "https://epg.112114.xyz/logo/山东教育卫视.png",
+    "id": "山东教育卫视"
+  },
+  {
+    "name": "游戏风云",
+    "url": "https://www.whalenas.com/mgik/index.php?id=yxfyhd",
+    "logo": "https://epg.112114.xyz/logo/游戏风云.png",
+    "id": "游戏风云"
+  },
+  {
+    "name": "东方购物",
+    "url": "https://www.whalenas.com/mgik/index.php?id=dfgw",
+    "logo": "https://epg.112114.xyz/logo/东方购物.png"
+  },
+  {
+    "name": "欢笑剧场4K",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hxjc",
+    "logo": "https://epg.112114.xyz/logo/欢笑剧场.png",
+    "id": "欢笑剧场"
+  },
+  {
+    "name": "数码时代",
+    "url": "https://www.whalenas.com/mgik/index.php?id=smsd",
+    "logo": "https://epg.112114.xyz/logo/数码时代.png"
+  },
+  {
+    "name": "杭州综合",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hzzh",
+    "logo": "https://epg.112114.xyz/logo/杭州综合.png",
+    "id": "杭州综合"
+  },
+  {
+    "name": "杭州明珠",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hzmz",
+    "logo": "https://epg.112114.xyz/logo/杭州明珠.png"
+  },
+  {
+    "name": "杭州生活",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hzsh",
+    "logo": "https://epg.112114.xyz/logo/杭州生活.png",
+    "id": "杭州生活"
+  },
+  {
+    "name": "杭州影视",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hzys",
+    "logo": "https://epg.112114.xyz/logo/杭州影视.png",
+    "id": "杭州影视"
+  },
+  {
+    "name": "杭州少儿体育",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hzse",
+    "logo": "https://epg.112114.xyz/logo/杭州少儿.png",
+    "id": "杭州少儿"
+  },
+  {
+    "name": "咪咕Y+",
+    "url": "https://www.whalenas.com/mgik/index.php?id=Yj",
+    "logo": "https://epg.112114.xyz/logo/咪咕Y+.png"
+  },
+  {
+    "name": "体坛名栏汇",
+    "url": "https://www.whalenas.com/mgik/index.php?id=ttmlh",
+    "logo": "https://epg.112114.xyz/logo/体坛名栏汇.png"
+  },
+  {
+    "name": "怀旧老片",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hjlp",
+    "logo": "https://epg.112114.xyz/logo/怀旧老片.png",
+    "id": "怀旧老片"
+  },
+  {
+    "name": "每日科幻电影",
+    "url": "https://www.whalenas.com/mgik/index.php?id=mrkhdy",
+    "logo": "https://epg.112114.xyz/logo/每日科幻电影.png"
+  },
+  {
+    "name": "神探狄仁杰",
+    "url": "https://www.whalenas.com/mgik/index.php?id=stdrj",
+    "logo": "https://epg.112114.xyz/logo/神探狄仁杰.png",
+    "id": "神探狄仁杰"
+  },
+  {
+    "name": "金庸频道",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jypd",
+    "logo": "https://epg.112114.xyz/logo/金庸频道.png",
+    "id": "金庸频道"
+  },
+  {
+    "name": "杨幂影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=ymyy",
+    "logo": "https://epg.112114.xyz/logo/杨幂影院.png",
+    "id": "杨幂影院"
+  },
+  {
+    "name": "深夜失眠剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=sysmjc",
+    "logo": "https://epg.112114.xyz/logo/深夜失眠剧场.png"
+  },
+  {
+    "name": "高清大片",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gqdp",
+    "logo": "https://epg.112114.xyz/logo/高清大片.png",
+    "id": "高清大片"
+  },
+  {
+    "name": "盗墓方法论",
+    "url": "https://www.whalenas.com/mgik/index.php?id=dmffl",
+    "logo": "https://epg.112114.xyz/logo/盗墓方法论.png",
+    "id": "盗墓方法论"
+  },
+  {
+    "name": "追剧少女",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jzsn",
+    "logo": "https://epg.112114.xyz/logo/追剧少女.png",
+    "id": "追剧少女"
+  },
+  {
+    "name": "周星驰影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=zxcyy",
+    "logo": "https://epg.112114.xyz/logo/周星驰影院.png",
+    "id": "周星驰影院"
+  },
+  {
+    "name": "高能烧脑时刻",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gnsnsk",
+    "logo": "https://epg.112114.xyz/logo/高能烧脑时刻.png",
+    "id": "高能烧脑时刻"
+  },
+  {
+    "name": "赛事最经典",
+    "url": "https://www.whalenas.com/mgik/index.php?id=sszjd",
+    "logo": "https://epg.112114.xyz/logo/赛事最经典.png"
+  },
+  {
+    "name": "新片放映厅",
+    "url": "https://www.whalenas.com/mgik/index.php?id=xpfyt",
+    "logo": "https://epg.112114.xyz/logo/新片放映厅.png",
+    "id": "新片放映厅"
+  },
+  {
+    "name": "热剧联播",
+    "url": "https://www.whalenas.com/mgik/index.php?id=rjlb",
+    "logo": "https://epg.112114.xyz/logo/热剧联播.png"
+  },
+  {
+    "name": "爱情公寓",
+    "url": "https://www.whalenas.com/mgik/index.php?id=aqgy",
+    "logo": "https://epg.112114.xyz/logo/爱情公寓.png"
+  },
+  {
+    "name": "黄金剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hjinjc",
+    "logo": "https://epg.112114.xyz/logo/黄金剧场.png",
+    "id": "黄金剧场"
+  },
+  {
+    "name": "云上电影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=ysdyy",
+    "logo": "https://epg.112114.xyz/logo/云上电影院.png",
+    "id": "云上电影院"
+  },
+  {
+    "name": "军旅剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jljc",
+    "logo": "https://epg.112114.xyz/logo/NEWTV军旅剧场.png",
+    "id": "NEWTV军旅剧场"
+  },
+  {
+    "name": "少林剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=sljc",
+    "logo": "https://epg.112114.xyz/logo/少林剧场.png",
+    "id": "少林剧场"
+  },
+  {
+    "name": "吴京作品集",
+    "url": "https://www.whalenas.com/mgik/index.php?id=wjzpj",
+    "logo": "https://epg.112114.xyz/logo/吴京作品集.png",
+    "id": "吴京作品集"
+  },
+  {
+    "name": "经典贺岁片",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jdhsp",
+    "logo": "https://epg.112114.xyz/logo/经典贺岁片.png",
+    "id": "经典贺岁片"
+  },
+  {
+    "name": "郭富城影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gfcyy",
+    "logo": "https://epg.112114.xyz/logo/郭富城影院.png",
+    "id": "郭富城影院"
+  },
+  {
+    "name": "喜剧联盟",
+    "url": "https://www.whalenas.com/mgik/index.php?id=xjlm",
+    "logo": "https://epg.112114.xyz/logo/喜剧联盟.png",
+    "id": "喜剧联盟"
+  },
+  {
+    "name": "假期剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jqjc",
+    "logo": "https://epg.112114.xyz/logo/假期剧场.png",
+    "id": "假期剧场"
+  },
+  {
+    "name": "古天乐影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gtlyy",
+    "logo": "https://epg.112114.xyz/logo/古天乐影院.png",
+    "id": "古天乐影院"
+  },
+  {
+    "name": "红色谍战剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=hsdzjc",
+    "logo": "https://epg.112114.xyz/logo/红色谍战剧场.png",
+    "id": "红色谍战剧场"
+  },
+  {
+    "name": "武侠剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=wxjc",
+    "logo": "https://epg.112114.xyz/logo/武侠剧场.png",
+    "id": "武侠剧场"
+  },
+  {
+    "name": "试胆大会",
+    "url": "https://www.whalenas.com/mgik/index.php?id=sddh",
+    "logo": "https://epg.112114.xyz/logo/试胆大会.png",
+    "id": "试胆大会"
+  },
+  {
+    "name": "TVB剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=tvbjc",
+    "logo": "https://epg.112114.xyz/logo/TVB剧场.png",
+    "id": "TVB剧场"
+  },
+  {
+    "name": "TVB剧场2",
+    "url": "https://www.whalenas.com/mgik/index.php?id=tvbjc2",
+    "logo": "https://epg.112114.xyz/logo/TVB剧场.png",
+    "id": "TVB剧场"
+  },
+  {
+    "name": "周润发影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=zrfyy",
+    "logo": "https://epg.112114.xyz/logo/周润发影院.png",
+    "id": "周润发影院"
+  },
+  {
+    "name": "僵尸剧场",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jsjc",
+    "logo": "https://epg.112114.xyz/logo/僵尸剧场.png",
+    "id": "僵尸剧场"
+  },
+  {
+    "name": "经典影视速看",
+    "url": "https://www.whalenas.com/mgik/index.php?id=jdyssk",
+    "logo": "https://epg.112114.xyz/logo/经典影视速看.png",
+    "id": "经典影视速看"
+  },
+  {
+    "name": "高分影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gfyy",
+    "logo": "https://epg.112114.xyz/logo/高分影院.png",
+    "id": "高分影院"
+  },
+  {
+    "name": "张国荣影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=zgryy",
+    "logo": "https://epg.112114.xyz/logo/张国荣影院.png",
+    "id": "张国荣影院"
+  },
+  {
+    "name": "张国荣影院2",
+    "url": "https://www.whalenas.com/mgik/index.php?id=zgryy2",
+    "logo": "https://epg.112114.xyz/logo/张国荣影院.png",
+    "id": "张国荣影院"
+  },
+  {
+    "name": "刘德华影院",
+    "url": "https://www.whalenas.com/mgik/index.php?id=ldhyy",
+    "logo": "https://epg.112114.xyz/logo/刘德华影院.png",
+    "id": "刘德华影院"
+  },
+  {
+    "name": "古龙作品集",
+    "url": "https://www.whalenas.com/mgik/index.php?id=glzpj",
+    "logo": "https://epg.112114.xyz/logo/古龙作品集.png",
+    "id": "古龙作品集"
+  },
+  {
+    "name": "刘亦菲影视展播",
+    "url": "https://www.whalenas.com/mgik/index.php?id=lyfys",
+    "logo": "https://epg.112114.xyz/logo/刘亦菲影视.png",
+    "id": "刘亦菲影视"
+  },
+  {
+    "name": "成龙作品集",
+    "url": "https://www.whalenas.com/mgik/index.php?id=clzpj",
+    "logo": "https://epg.112114.xyz/logo/成龙作品集.png",
+    "id": "成龙作品集"
+  },
+  {
+    "name": "葛优作品集",
+    "url": "https://www.whalenas.com/mgik/index.php?id=gyzpj",
+    "logo": "https://epg.112114.xyz/logo/葛优作品集.png"
+  }
+]
